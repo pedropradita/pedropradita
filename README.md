@@ -26,7 +26,9 @@ I'm someone who loves learning and is always excited to explore different techno
 
 ### 📫 How to Reach Me:
   
-&nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pedro-pradita) &nbsp; [<img src="https://avatars.githubusercontent.com/u/11737042?s=200&v=4" width="3.5%"/>](https://www.upwork.com/freelancers/~0194f4e1f9630b310b) &nbsp;  <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+&nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/pedro-pradita) 
+&nbsp; [<img src="https://avatars.githubusercontent.com/u/11737042?s=200&v=4" width="3.5%"/>](https://www.upwork.com/freelancers/~0194f4e1f9630b310b) 
+&nbsp;  <a href="mailto:pedro.pradita.s@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ### 👨🏻‍💻 Languages and Tools:
 
